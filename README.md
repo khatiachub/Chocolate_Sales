@@ -21,3 +21,5 @@ Dynamic Formatting: Used custom number formats to display large currencies clear
 <img width="1220" height="449" alt="1" src="https://github.com/user-attachments/assets/81c0e752-a00d-4d71-9a6c-9b8928173a67" />
 <img width="1092" height="478" alt="22" src="https://github.com/user-attachments/assets/d9746e30-fa92-4f21-b79d-64c081583c4c" />
 
+<img width="772" height="444" alt="choc sales" src="https://github.com/user-attachments/assets/22ede706-9ef2-40fb-a9eb-3ef7e1312da9" />
+
